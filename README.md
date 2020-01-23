@@ -23,3 +23,7 @@ https://blockchain.xunlei.com/site/tradesource.html  # 迅雷链系统
 
 http://www.chixm.com/agricultural.html   # 农产品溯源
 
+http://qihangsoft.com/chanpin    # 农产品溯源
+
+
+
