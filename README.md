@@ -14,8 +14,12 @@ https://www.cloudchain.cn/    # 浪潮开发的质量链
 所有数据采用加密算法进行保存，写入方授权后才可进行数据共享，避免隐私数据泄露。
 
 http://trace.hurongsoft.com/
+
 https://cndfmg.com/solutionController/toSolution.do
+
 http://www.yiquantech.com/product    # 追溯系统
+
 https://blockchain.xunlei.com/site/tradesource.html  # 迅雷链系统
+
 http://www.chixm.com/agricultural.html   # 农产品溯源
 
