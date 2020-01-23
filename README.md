@@ -17,3 +17,5 @@ http://trace.hurongsoft.com/
 https://cndfmg.com/solutionController/toSolution.do
 http://www.yiquantech.com/product    # 追溯系统
 https://blockchain.xunlei.com/site/tradesource.html  # 迅雷链系统
+http://www.chixm.com/agricultural.html   # 农产品溯源
+
