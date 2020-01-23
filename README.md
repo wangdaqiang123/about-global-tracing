@@ -16,3 +16,4 @@ https://www.cloudchain.cn/    # 浪潮开发的质量链
 http://trace.hurongsoft.com/
 https://cndfmg.com/solutionController/toSolution.do
 http://www.yiquantech.com/product    # 追溯系统
+https://blockchain.xunlei.com/site/tradesource.html  # 迅雷链系统
