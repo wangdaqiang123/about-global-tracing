@@ -36,3 +36,7 @@ http://www.jkspsy.com/   # 全国进口商品溯源平台
           
 
 
+#Flink 高级应用模式第一辑：欺诈检测系统案例研究
+
+https://www.infoq.cn/article/dR1m9FfB1gEtvggKvlVX
+
