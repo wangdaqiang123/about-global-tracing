@@ -40,6 +40,9 @@ http://www.jkspsy.com/   # 全国进口商品溯源平台
 
 https://www.infoq.cn/article/dR1m9FfB1gEtvggKvlVX
 
+https://ververica.cn/developers/flink-basic-tutorial-1-environmental-construction/
+
+
 区块链医疗产业应用报告
 
 https://www.infoq.cn/article/8vF2o37zveKTxXPkt4kQ
