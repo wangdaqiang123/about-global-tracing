@@ -60,6 +60,10 @@ http://yuqing.gsdata.cn/vindex
 
 https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486381&idx=1&sn=b965af486d7653a8d4c4c369867b4ba0&chksm=fbe9b262cc9e3b7454d840ab9a94c64400ace821a67247b5dab25feeaf513a8823209329198a&scene=27#wechat_redirect
 
+如何用 Python 在笔记本上分析 100GB 数据？
+
+https://www.infoq.cn/article/JAl9mSCpyS8vX80TYc4D
+
 架构问题
 
 https://www.infoq.cn/article/iTHOqXZTpogTKveFJfwk
