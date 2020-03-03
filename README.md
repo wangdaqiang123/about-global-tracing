@@ -27,6 +27,9 @@ http://qihangsoft.com/chanpin    # 农产品溯源
 
 https://giqci.com/cn/   环球质量溯源 
 
+https://mp.weixin.qq.com/s/w0APEAonFXbOoinMJipPAA
+
+
 进出口 溯源： 
 
 http://chinawidth.cn/production/bussiness-project
