@@ -98,4 +98,7 @@ https://www.infoq.cn/article/QQCvcZ3GDbNPiH566C91
 
 https://github.com/FISCO-BCOS/FISCO-BCOS
 
+https://yeasy.gitbooks.io/blockchain_guide/01_history/bitcoin.html
+
+
 
