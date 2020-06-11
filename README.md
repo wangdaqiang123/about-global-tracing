@@ -103,3 +103,7 @@ https://yeasy.gitbooks.io/blockchain_guide/01_history/bitcoin.html
 
 
 https://www.infoq.cn/article/rISTygDH9ghqPLUJqbEI
+
+用户画像
+https://mp.weixin.qq.com/s?__biz=MzIwNDI0ODY1OA==&mid=2655932371&idx=1&sn=5bb31f92187dfd256ebbecfcafcc026a&chksm=8d79eceeba0e65f815cda81a746c8665be1c0d2618c0261cc580e1b5e366ecdc446f44437398&scene=126&sessionid=1591834241&key=956a489e786c6516ed9ff5425474e68c608dfc7ee636c9b287fe26096fdff99645e0fcf78a5cea1d0223c62cceb99f0babbb0dfa1525c752841eca1f42f4e1225f2a3c76386e1b198d7e2a53f53ab4f4&ascene=1&uin=MjY3NDA5NzYxNQ%3D%3D&devicetype=Windows+10+x64&version=62090072&lang=zh_CN&exportkey=AcFvIU3OxrRpYkGuYyOIwys%3D&pass_ticket=mH8ZWj1tUlPOh2g%2BUSa08N2xLeLVaMtdXVLDaoKsz7n%2FrdEuAFxnMaieZ%2FdLLwuc
+
